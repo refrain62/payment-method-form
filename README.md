@@ -18,7 +18,7 @@ Ok to proceed? (y)
 
 ## ライブラリの追加
 ```
-# npm install react-hook-form @hookform/resolvers zod
+# npm install react-hook-form @hookform/resolvers @hookform/error-message zod dayjs
 ```
 
 
